@@ -1,0 +1,1 @@
+Add prop. Vendor Files for samsung
